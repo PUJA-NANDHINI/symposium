@@ -42,8 +42,7 @@ body {
 .logo-img {
     height: 50px;
     width: 50px;
-    margin-right: 10px;
-    margin-left: 60vh; 
+    align: center;
 }
 
 .bird-logo {
